@@ -1,0 +1,20 @@
+{
+  "name": "pubg",
+  "version": "1.0.0",
+  "description": "pubg record api",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "express": "^4.16.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.2.0",
+    "pubg-api-redis": "^3.7.0",
+    "pubg-api-wrapper": "^0.2.2",
+    "pubg.js": "^3.6.0"
+  }
+}
